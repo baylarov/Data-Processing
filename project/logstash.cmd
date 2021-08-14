@@ -1,0 +1,1 @@
+D:\Programs\logstash-7.14.0\bin\logstash.bat
